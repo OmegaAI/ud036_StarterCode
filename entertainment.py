@@ -3,9 +3,9 @@ import media
 
 # List of movie titles with poster image and trailer
 
-the_other_guys = media.Movie("The Other Guys", "http://www.imdb.com/title/tt1386588/mediaviewer/rm1289719040", "https://www.youtube.com/watch?v=D6WOoUG1eNo")
+the_other_guys = media.Movie("The Other Guys", "http://img.moviepostershop.com/the-other-guys-movie-poster-2010-1020545762.jpg", "https://www.youtube.com/watch?v=D6WOoUG1eNo")
 
-star_wars_ep3 = media.Movie("Star Wars Episode 3: Revenge of the Sith", "http://t0.gstatic.com/images?q=tbn:ANd9GcT7TlfhiJ93841oYulGpyJZ3YULcgzah1CGumaVQuZ3-zXarfai", "https://www.youtube.com/watch?v=MR1xo1tLyBk")
+star_wars_ep3 = media.Movie("Star Wars Episode 3", "http://t0.gstatic.com/images?q=tbn:ANd9GcT7TlfhiJ93841oYulGpyJZ3YULcgzah1CGumaVQuZ3-zXarfai", "https://www.youtube.com/watch?v=MR1xo1tLyBk")
 
 step_brothers = media.Movie("Step Brothers", "http://www.gstatic.com/tv/thumb/movieposters/175884/p175884_p_v8_ag.jpg", "https://www.youtube.com/watch?v=ANjenc4W1_Q")
 
