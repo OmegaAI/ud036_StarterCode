@@ -12,16 +12,15 @@ of the repository: _https://github.com/adarsh0806/ud036_StarterCode.git_.
 
 Open GitBash and move to the directory where you want to clone entertainment.py.
 
-Clone the repository _https://github.com/OmegaAI/ud036_StarterCode.git_.
+Clone the **dpotter** branch in the repository _https://github.com/OmegaAI/ud036_StarterCode.git_.
 
-	$ git clone https://github.com/OmegaAI/ud036_StarterCode.git
+	$ git clone -b dpotter --single-branch https://github.com/OmegaAI/ud036_StarterCode.git
 
-**Important!** Make sure you are on the dpotter branch by using `git status`.
 
 # Launch
 
 To launch the website on Windows, open Command Prompt and move to the directory the entertainment.py is located in.  Then enter the
-full name of the file.
+full name of the file.  (Alternative: You can also double-click the file in the directory.)
 
 Upon running the code, an .html file will be created in the same directory and launch the file in your default web browser.
 For optimal functionality, you can right-click the .html file in the directory titled "fresh_tomatoes.html".  Use "open with"
