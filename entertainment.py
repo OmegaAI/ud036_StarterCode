@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-# List of movie titles with poster image and trailer
+# Assign movie titles with poster image and trailer. Create instance of Movie class for each title.
 
 the_other_guys = media.Movie("The Other Guys", "http://img.moviepostershop.com/the-other-guys-movie-poster-2010-1020545762.jpg", "https://www.youtube.com/watch?v=D6WOoUG1eNo")
 
@@ -16,6 +16,6 @@ office_space = media.Movie("Office Space", "http://www.gstatic.com/tv/thumb/movi
 die_hard = media.Movie("Die Hard", "http://www.gstatic.com/tv/thumb/movieposters/10255/p10255_p_v8_ar.jpg", "https://www.youtube.com/watch?v=2TQ-pOvI6Xo")
 
 
-movies = [the_other_guys, star_wars_ep3, step_brothers, american_psycho, office_space, die_hard]
+movies = [the_other_guys, star_wars_ep3, step_brothers, american_psycho, office_space, die_hard] #Create list of movies that will be opened and displayed by fresh tomatoes.
 
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)  #Opens movies with function called from fresh tomatoes

@@ -5,8 +5,8 @@ designed for a project on Udacity's Full-stack Web Developer Nanodegree Plus pro
 of the repository: _https://github.com/adarsh0806/ud036_StarterCode.git_.
 
 # Requirements:
-**Python 3** found at: _www.python.org_
-**GitBash**
+1) **Python 3** found at: _www.python.org_
+2) **GitBash**
 
 # Installation
 
