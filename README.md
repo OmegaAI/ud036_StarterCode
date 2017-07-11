@@ -14,7 +14,7 @@ Open GitBash and move to the directory where you want to clone entertainment.py.
 
 Clone the **dpotter** branch in the repository _https://github.com/OmegaAI/ud036_StarterCode.git_.
 
-	$ git clone -b dpotter --single-branch https://github.com/OmegaAI/ud036_StarterCode.git
+	$ git clone https://github.com/OmegaAI/ud036_StarterCode.git
 
 
 # Launch
